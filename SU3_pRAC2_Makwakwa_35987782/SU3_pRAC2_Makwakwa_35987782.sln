@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SU3_pRAC2_Makwakwa_35987782", "SU3_pRAC2_Makwakwa_35987782.csproj", "{7DA37AEE-B0EC-49BB-9D45-339B5B412A9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA37AEE-B0EC-49BB-9D45-339B5B412A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA37AEE-B0EC-49BB-9D45-339B5B412A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA37AEE-B0EC-49BB-9D45-339B5B412A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA37AEE-B0EC-49BB-9D45-339B5B412A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B445850-CEBD-402A-A69B-F9CC9015049E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\bin\Debug\Database1.mdf
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\bin\Debug\Database1_log.ldf
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\bin\Debug\35987782_Prac5_Makwakwa.exe.config
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\bin\Debug\35987782_Prac5_Makwakwa.exe
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\bin\Debug\35987782_Prac5_Makwakwa.pdb
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\obj\Debug\35987782_Prac5_Makwakwa.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\obj\Debug\_35987782_Prac5_Makwakwa.Form1.resources
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\obj\Debug\_35987782_Prac5_Makwakwa.viewfrm.resources
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\obj\Debug\_35987782_Prac5_Makwakwa.editForm.resources
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\obj\Debug\_35987782_Prac5_Makwakwa.Properties.Resources.resources
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\obj\Debug\35987782_Prac5_Makwakwa.csproj.GenerateResource.cache
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\obj\Debug\35987782_Prac5_Makwakwa.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\obj\Debug\35987782_Prac5_Makwakwa.exe
+C:\Users\User\source\repos\35987782_Prac5_Makwakwa\obj\Debug\35987782_Prac5_Makwakwa.pdb

@@ -1,0 +1,13 @@
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\bin\Debug\Database1.mdf
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\bin\Debug\Database1_log.ldf
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\bin\Debug\35987782_Prac_3_Makwakwa.exe.config
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\bin\Debug\35987782_Prac_3_Makwakwa.exe
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\bin\Debug\35987782_Prac_3_Makwakwa.pdb
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\obj\Debug\35987782_Prac_3_Makwakwa.csproj.AssemblyReference.cache
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\obj\Debug\_35987782_Prac_3_Makwakwa.Form1.resources
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\obj\Debug\_35987782_Prac_3_Makwakwa.frmDVDNew.resources
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\obj\Debug\_35987782_Prac_3_Makwakwa.Properties.Resources.resources
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\obj\Debug\35987782_Prac_3_Makwakwa.csproj.GenerateResource.cache
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\obj\Debug\35987782_Prac_3_Makwakwa.csproj.CoreCompileInputs.cache
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\obj\Debug\35987782_Prac_3_Makwakwa.exe
+C:\Users\User\Music\35987782_Prac_3_Makwakwa\obj\Debug\35987782_Prac_3_Makwakwa.pdb

@@ -1,0 +1,14 @@
+C:\Users\User\Music\35987782_Makwakwa_Prac4\bin\Debug\Database1.mdf
+C:\Users\User\Music\35987782_Makwakwa_Prac4\bin\Debug\Database1_log.ldf
+C:\Users\User\Music\35987782_Makwakwa_Prac4\bin\Debug\35987782_Makwakwa_Prac4.exe.config
+C:\Users\User\Music\35987782_Makwakwa_Prac4\bin\Debug\35987782_Makwakwa_Prac4.exe
+C:\Users\User\Music\35987782_Makwakwa_Prac4\bin\Debug\35987782_Makwakwa_Prac4.pdb
+C:\Users\User\Music\35987782_Makwakwa_Prac4\obj\Debug\35987782_Makwakwa_Prac4.csproj.AssemblyReference.cache
+C:\Users\User\Music\35987782_Makwakwa_Prac4\obj\Debug\_35987782_Makwakwa_Prac4.Form1.resources
+C:\Users\User\Music\35987782_Makwakwa_Prac4\obj\Debug\_35987782_Makwakwa_Prac4.EditFrm.resources
+C:\Users\User\Music\35987782_Makwakwa_Prac4\obj\Debug\_35987782_Makwakwa_Prac4.Properties.Resources.resources
+C:\Users\User\Music\35987782_Makwakwa_Prac4\obj\Debug\_35987782_Makwakwa_Prac4.ViewProductFrm.resources
+C:\Users\User\Music\35987782_Makwakwa_Prac4\obj\Debug\35987782_Makwakwa_Prac4.csproj.GenerateResource.cache
+C:\Users\User\Music\35987782_Makwakwa_Prac4\obj\Debug\35987782_Makwakwa_Prac4.csproj.CoreCompileInputs.cache
+C:\Users\User\Music\35987782_Makwakwa_Prac4\obj\Debug\35987782_Makwakwa_Prac4.exe
+C:\Users\User\Music\35987782_Makwakwa_Prac4\obj\Debug\35987782_Makwakwa_Prac4.pdb
